@@ -1,4 +1,4 @@
-# vROast
+# vROAST
 
 This is used for vROAST issue and release management.
 
